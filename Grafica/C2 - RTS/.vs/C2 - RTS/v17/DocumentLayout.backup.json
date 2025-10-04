@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Repos\\Grafica\\C2 - RTS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4715FC90-6BF0-4268-BD4F-DCE628432D9E}|C2 - RTS.csproj|E:\\Repos\\Grafica\\C2 - RTS\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4715FC90-6BF0-4268-BD4F-DCE628432D9E}|C2 - RTS.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4715FC90-6BF0-4268-BD4F-DCE628432D9E}|C2 - RTS.csproj|e:\\repos\\grafica\\c2 - rts\\matrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4715FC90-6BF0-4268-BD4F-DCE628432D9E}|C2 - RTS.csproj|solutionrelative:matrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4715FC90-6BF0-4268-BD4F-DCE628432D9E}|C2 - RTS.csproj|E:\\Repos\\Grafica\\C2 - RTS\\polygon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4715FC90-6BF0-4268-BD4F-DCE628432D9E}|C2 - RTS.csproj|solutionrelative:polygon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4715FC90-6BF0-4268-BD4F-DCE628432D9E}|C2 - RTS.csproj|E:\\Repos\\Grafica\\C2 - RTS\\mygraphics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4715FC90-6BF0-4268-BD4F-DCE628432D9E}|C2 - RTS.csproj|solutionrelative:mygraphics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4715FC90-6BF0-4268-BD4F-DCE628432D9E}|C2 - RTS.csproj|e:\\repos\\grafica\\c2 - rts\\inputs\\polygon.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4715FC90-6BF0-4268-BD4F-DCE628432D9E}|C2 - RTS.csproj|solutionrelative:inputs\\polygon.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4715FC90-6BF0-4268-BD4F-DCE628432D9E}|C2 - RTS.csproj|E:\\Repos\\Grafica\\C2 - RTS\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4715FC90-6BF0-4268-BD4F-DCE628432D9E}|C2 - RTS.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 223,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\Repos\\Grafica\\C2 - RTS\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\Repos\\Grafica\\C2 - RTS\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T17:31:58.539Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\Repos\\Grafica\\C2 - RTS\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\Repos\\Grafica\\C2 - RTS\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAgwDwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T17:31:58.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Matrix.cs",
+              "DocumentMoniker": "E:\\Repos\\Grafica\\C2 - RTS\\Matrix.cs",
+              "RelativeDocumentMoniker": "Matrix.cs",
+              "ToolTip": "E:\\Repos\\Grafica\\C2 - RTS\\Matrix.cs",
+              "RelativeToolTip": "Matrix.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAhwF4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T17:31:58.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Polygon.cs",
+              "DocumentMoniker": "E:\\Repos\\Grafica\\C2 - RTS\\Polygon.cs",
+              "RelativeDocumentMoniker": "Polygon.cs",
+              "ToolTip": "E:\\Repos\\Grafica\\C2 - RTS\\Polygon.cs",
+              "RelativeToolTip": "Polygon.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAApwGIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T17:31:58.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyGraphics.cs",
+              "DocumentMoniker": "E:\\Repos\\Grafica\\C2 - RTS\\MyGraphics.cs",
+              "RelativeDocumentMoniker": "MyGraphics.cs",
+              "ToolTip": "E:\\Repos\\Grafica\\C2 - RTS\\MyGraphics.cs",
+              "RelativeToolTip": "MyGraphics.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T17:31:58.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "polygon.txt",
+              "DocumentMoniker": "E:\\Repos\\Grafica\\C2 - RTS\\Inputs\\polygon.txt",
+              "RelativeDocumentMoniker": "Inputs\\polygon.txt",
+              "ToolTip": "E:\\Repos\\Grafica\\C2 - RTS\\Inputs\\polygon.txt",
+              "RelativeToolTip": "Inputs\\polygon.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-23T17:31:58.874Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

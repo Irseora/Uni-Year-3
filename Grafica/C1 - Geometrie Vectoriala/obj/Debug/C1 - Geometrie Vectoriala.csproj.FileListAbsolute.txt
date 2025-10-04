@@ -1,0 +1,11 @@
+C:\Users\Vivi\Documents\Grafica\C1 - Geometrie Vectoriala\bin\Debug\C1 - Geometrie Vectoriala.exe.config
+C:\Users\Vivi\Documents\Grafica\C1 - Geometrie Vectoriala\bin\Debug\C1 - Geometrie Vectoriala.exe
+C:\Users\Vivi\Documents\Grafica\C1 - Geometrie Vectoriala\bin\Debug\C1 - Geometrie Vectoriala.pdb
+C:\Users\Vivi\Documents\Grafica\C1 - Geometrie Vectoriala\obj\Debug\C1 - Geometrie Vectoriala.csproj.AssemblyReference.cache
+C:\Users\Vivi\Documents\Grafica\C1 - Geometrie Vectoriala\obj\Debug\C1 - Geometrie Vectoriala.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vivi\Documents\Grafica\C1 - Geometrie Vectoriala\obj\Debug\C1___Geometrie_Vectoriala.Form1.resources
+C:\Users\Vivi\Documents\Grafica\C1 - Geometrie Vectoriala\obj\Debug\C1___Geometrie_Vectoriala.Properties.Resources.resources
+C:\Users\Vivi\Documents\Grafica\C1 - Geometrie Vectoriala\obj\Debug\C1 - Geometrie Vectoriala.csproj.GenerateResource.cache
+C:\Users\Vivi\Documents\Grafica\C1 - Geometrie Vectoriala\obj\Debug\C1 - Geometrie Vectoriala.csproj.CoreCompileInputs.cache
+C:\Users\Vivi\Documents\Grafica\C1 - Geometrie Vectoriala\obj\Debug\C1 - Geometrie Vectoriala.exe
+C:\Users\Vivi\Documents\Grafica\C1 - Geometrie Vectoriala\obj\Debug\C1 - Geometrie Vectoriala.pdb

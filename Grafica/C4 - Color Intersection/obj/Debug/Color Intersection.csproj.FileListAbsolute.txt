@@ -1,0 +1,22 @@
+C:\Users\Vivi\Documents\Repos\Color Intersection\bin\Debug\Color Intersection.exe.config
+C:\Users\Vivi\Documents\Repos\Color Intersection\bin\Debug\Color Intersection.exe
+C:\Users\Vivi\Documents\Repos\Color Intersection\bin\Debug\Color Intersection.pdb
+C:\Users\Vivi\Documents\Repos\Color Intersection\obj\Debug\Color Intersection.csproj.AssemblyReference.cache
+C:\Users\Vivi\Documents\Repos\Color Intersection\obj\Debug\Color Intersection.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vivi\Documents\Repos\Color Intersection\obj\Debug\Color_Intersection.Form1.resources
+C:\Users\Vivi\Documents\Repos\Color Intersection\obj\Debug\Color_Intersection.Properties.Resources.resources
+C:\Users\Vivi\Documents\Repos\Color Intersection\obj\Debug\Color Intersection.csproj.GenerateResource.cache
+C:\Users\Vivi\Documents\Repos\Color Intersection\obj\Debug\Color Intersection.csproj.CoreCompileInputs.cache
+C:\Users\Vivi\Documents\Repos\Color Intersection\obj\Debug\Color Intersection.exe
+C:\Users\Vivi\Documents\Repos\Color Intersection\obj\Debug\Color Intersection.pdb
+C:\Users\Vivi\Documents\Repos\Grafica\C4 - Color Intersection\bin\Debug\Color Intersection.exe.config
+C:\Users\Vivi\Documents\Repos\Grafica\C4 - Color Intersection\bin\Debug\Color Intersection.exe
+C:\Users\Vivi\Documents\Repos\Grafica\C4 - Color Intersection\bin\Debug\Color Intersection.pdb
+C:\Users\Vivi\Documents\Repos\Grafica\C4 - Color Intersection\obj\Debug\Color Intersection.csproj.AssemblyReference.cache
+C:\Users\Vivi\Documents\Repos\Grafica\C4 - Color Intersection\obj\Debug\Color Intersection.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vivi\Documents\Repos\Grafica\C4 - Color Intersection\obj\Debug\Color_Intersection.Form1.resources
+C:\Users\Vivi\Documents\Repos\Grafica\C4 - Color Intersection\obj\Debug\Color_Intersection.Properties.Resources.resources
+C:\Users\Vivi\Documents\Repos\Grafica\C4 - Color Intersection\obj\Debug\Color Intersection.csproj.GenerateResource.cache
+C:\Users\Vivi\Documents\Repos\Grafica\C4 - Color Intersection\obj\Debug\Color Intersection.csproj.CoreCompileInputs.cache
+C:\Users\Vivi\Documents\Repos\Grafica\C4 - Color Intersection\obj\Debug\Color Intersection.exe
+C:\Users\Vivi\Documents\Repos\Grafica\C4 - Color Intersection\obj\Debug\Color Intersection.pdb

@@ -1,0 +1,37 @@
+[gd_scene load_steps=3 format=3 uid="uid://c6rwyu7t21l7k"]
+
+[ext_resource type="Script" uid="uid://dlt13bdeu4wu6" path="res://main_menu.gd" id="1_06t4h"]
+[ext_resource type="Texture2D" uid="uid://bw84nixfimr8v" path="res://assets/Backgrounds/backgroundColorForest.png" id="2_7vrkn"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Camera2D" type="Camera2D" parent="."]
+
+[node name="MainMenu" type="Node2D" parent="."]
+script = ExtResource("1_06t4h")
+
+[node name="LineEdit" type="LineEdit" parent="MainMenu"]
+offset_left = -250.0
+offset_top = -16.0
+offset_right = 252.0
+offset_bottom = 20.0
+theme_override_font_sizes/font_size = 22
+placeholder_text = "AAAAAAAAAAAAAAAAA"
+alignment = 1
+
+[node name="Button" type="Button" parent="MainMenu"]
+offset_left = -110.0
+offset_top = 54.0
+offset_right = 114.0
+offset_bottom = 94.0
+theme_override_font_sizes/font_size = 22
+text = "Next"
+
+[node name="BackgroundColorForest" type="Sprite2D" parent="."]
+z_index = -1
+position = Vector2(-5.00003, -36)
+scale = Vector2(1.17383, 1)
+texture = ExtResource("2_7vrkn")
+
+[connection signal="text_submitted" from="MainMenu/LineEdit" to="MainMenu" method="_on_line_edit_text_submitted"]
+[connection signal="pressed" from="MainMenu/Button" to="MainMenu" method="_on_button_pressed"]

@@ -1,0 +1,41 @@
+[gd_scene load_steps=5 format=3 uid="uid://b1ld72ixcvykd"]
+
+[ext_resource type="Script" uid="uid://1avtsg5xannu" path="res://ball.gd" id="1_41u45"]
+[ext_resource type="Texture2D" uid="uid://cgdg8qt1ndfti" path="res://assets/ball_red_small.png" id="2_ktgx5"]
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_m2sqd"]
+bounce = 1.0
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_m2sqd"]
+radius = 62.6279
+
+[node name="ball" type="RigidBody2D"]
+physics_material_override = SubResource("PhysicsMaterial_m2sqd")
+contact_monitor = true
+max_contacts_reported = 300
+script = ExtResource("1_41u45")
+
+[node name="Icon" type="Sprite2D" parent="."]
+scale = Vector2(0.826038, 0.841486)
+texture = ExtResource("2_ktgx5")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+scale = Vector2(0.427097, 0.427097)
+shape = SubResource("CircleShape2D_m2sqd")
+
+[node name="CPUParticles2D" type="CPUParticles2D" parent="."]
+position = Vector2(0, 26)
+emitting = false
+amount = 5
+texture = ExtResource("2_ktgx5")
+lifetime = 0.5
+one_shot = true
+explosiveness = 0.8
+randomness = 1.0
+emission_shape = 2
+emission_sphere_radius = 30.0
+scale_amount_min = 0.2
+scale_amount_max = 0.5
+color = Color(0, 0.73, 0.231167, 0.584314)
+
+[connection signal="body_entered" from="." to="." method="_on_body_entered"]

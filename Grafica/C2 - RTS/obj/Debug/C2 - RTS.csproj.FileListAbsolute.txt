@@ -1,0 +1,43 @@
+C:\Users\Vivi\Documents\AI\C2 - RTS\bin\Debug\C2 - RTS.exe.config
+C:\Users\Vivi\Documents\AI\C2 - RTS\bin\Debug\C2 - RTS.exe
+C:\Users\Vivi\Documents\AI\C2 - RTS\bin\Debug\C2 - RTS.pdb
+C:\Users\Vivi\Documents\AI\C2 - RTS\obj\Debug\C2 - RTS.csproj.AssemblyReference.cache
+C:\Users\Vivi\Documents\AI\C2 - RTS\obj\Debug\C2 - RTS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vivi\Documents\AI\C2 - RTS\obj\Debug\C2___RTS.Form1.resources
+C:\Users\Vivi\Documents\AI\C2 - RTS\obj\Debug\C2___RTS.Properties.Resources.resources
+C:\Users\Vivi\Documents\AI\C2 - RTS\obj\Debug\C2 - RTS.csproj.GenerateResource.cache
+C:\Users\Vivi\Documents\AI\C2 - RTS\obj\Debug\C2 - RTS.csproj.CoreCompileInputs.cache
+C:\Users\Vivi\Documents\AI\C2 - RTS\obj\Debug\C2 - RTS.exe
+C:\Users\Vivi\Documents\AI\C2 - RTS\obj\Debug\C2 - RTS.pdb
+C:\Users\Vivi\Documents\Grafica\C2 - RTS\obj\Debug\C2 - RTS.csproj.AssemblyReference.cache
+C:\Users\Vivi\Documents\Grafica\C2 - RTS\obj\Debug\C2 - RTS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vivi\Documents\Grafica\C2 - RTS\obj\Debug\C2___RTS.Form1.resources
+C:\Users\Vivi\Documents\Grafica\C2 - RTS\obj\Debug\C2___RTS.Properties.Resources.resources
+C:\Users\Vivi\Documents\Grafica\C2 - RTS\obj\Debug\C2 - RTS.csproj.GenerateResource.cache
+C:\Users\Vivi\Documents\Grafica\C2 - RTS\obj\Debug\C2 - RTS.csproj.CoreCompileInputs.cache
+C:\Users\Vivi\Documents\Grafica\C2 - RTS\obj\Debug\C2 - RTS.exe
+C:\Users\Vivi\Documents\Grafica\C2 - RTS\obj\Debug\C2 - RTS.pdb
+E:\Repos\Grafica\C2 - RTS\bin\Debug\C2 - RTS.exe.config
+E:\Repos\Grafica\C2 - RTS\bin\Debug\C2 - RTS.exe
+E:\Repos\Grafica\C2 - RTS\bin\Debug\C2 - RTS.pdb
+E:\Repos\Grafica\C2 - RTS\obj\Debug\C2 - RTS.csproj.AssemblyReference.cache
+E:\Repos\Grafica\C2 - RTS\obj\Debug\C2___RTS.Form1.resources
+E:\Repos\Grafica\C2 - RTS\obj\Debug\C2___RTS.Properties.Resources.resources
+E:\Repos\Grafica\C2 - RTS\obj\Debug\C2 - RTS.csproj.GenerateResource.cache
+E:\Repos\Grafica\C2 - RTS\obj\Debug\C2 - RTS.csproj.CoreCompileInputs.cache
+E:\Repos\Grafica\C2 - RTS\obj\Debug\C2 - RTS.exe
+E:\Repos\Grafica\C2 - RTS\obj\Debug\C2 - RTS.pdb
+C:\Users\Vivi\Documents\Grafica\C2 - RTS\bin\Debug\C2 - RTS.exe.config
+C:\Users\Vivi\Documents\Grafica\C2 - RTS\bin\Debug\C2 - RTS.exe
+C:\Users\Vivi\Documents\Grafica\C2 - RTS\bin\Debug\C2 - RTS.pdb
+C:\Users\Vivi\Documents\Repos\Grafica\C2 - RTS\bin\Debug\C2 - RTS.exe.config
+C:\Users\Vivi\Documents\Repos\Grafica\C2 - RTS\bin\Debug\C2 - RTS.exe
+C:\Users\Vivi\Documents\Repos\Grafica\C2 - RTS\bin\Debug\C2 - RTS.pdb
+C:\Users\Vivi\Documents\Repos\Grafica\C2 - RTS\obj\Debug\C2 - RTS.csproj.AssemblyReference.cache
+C:\Users\Vivi\Documents\Repos\Grafica\C2 - RTS\obj\Debug\C2 - RTS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vivi\Documents\Repos\Grafica\C2 - RTS\obj\Debug\C2___RTS.Form1.resources
+C:\Users\Vivi\Documents\Repos\Grafica\C2 - RTS\obj\Debug\C2___RTS.Properties.Resources.resources
+C:\Users\Vivi\Documents\Repos\Grafica\C2 - RTS\obj\Debug\C2 - RTS.csproj.GenerateResource.cache
+C:\Users\Vivi\Documents\Repos\Grafica\C2 - RTS\obj\Debug\C2 - RTS.csproj.CoreCompileInputs.cache
+C:\Users\Vivi\Documents\Repos\Grafica\C2 - RTS\obj\Debug\C2 - RTS.exe
+C:\Users\Vivi\Documents\Repos\Grafica\C2 - RTS\obj\Debug\C2 - RTS.pdb

@@ -1,0 +1,11 @@
+C:\Users\Vivi\Documents\Repos\Grafica\C3 - Grafica Raster\bin\Debug\C3 - Grafica Raster.exe.config
+C:\Users\Vivi\Documents\Repos\Grafica\C3 - Grafica Raster\bin\Debug\C3 - Grafica Raster.exe
+C:\Users\Vivi\Documents\Repos\Grafica\C3 - Grafica Raster\bin\Debug\C3 - Grafica Raster.pdb
+C:\Users\Vivi\Documents\Repos\Grafica\C3 - Grafica Raster\obj\Debug\C3 - Grafica Raster.csproj.AssemblyReference.cache
+C:\Users\Vivi\Documents\Repos\Grafica\C3 - Grafica Raster\obj\Debug\C3 - Grafica Raster.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vivi\Documents\Repos\Grafica\C3 - Grafica Raster\obj\Debug\C3___Grafica_Raster.Form1.resources
+C:\Users\Vivi\Documents\Repos\Grafica\C3 - Grafica Raster\obj\Debug\C3___Grafica_Raster.Properties.Resources.resources
+C:\Users\Vivi\Documents\Repos\Grafica\C3 - Grafica Raster\obj\Debug\C3 - Grafica Raster.csproj.GenerateResource.cache
+C:\Users\Vivi\Documents\Repos\Grafica\C3 - Grafica Raster\obj\Debug\C3 - Grafica Raster.csproj.CoreCompileInputs.cache
+C:\Users\Vivi\Documents\Repos\Grafica\C3 - Grafica Raster\obj\Debug\C3 - Grafica Raster.exe
+C:\Users\Vivi\Documents\Repos\Grafica\C3 - Grafica Raster\obj\Debug\C3 - Grafica Raster.pdb

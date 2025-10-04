@@ -1,0 +1,25 @@
+.task {
+    display: grid;
+    grid-template-columns: 1fr 3fr 1fr;
+    column-gap: 2px;
+    min-height: 0;
+    min-width: 0;
+    align-items: center;
+}
+
+.task > input {
+    overflow: hidden;
+    justify-self: end;
+}
+
+.task > p {
+    justify-self: start;
+}
+
+.task > button {
+    overflow: hidden;
+    width: 20px;
+    height: 30px;
+    padding: 0px;
+    line-height: 0px;
+}

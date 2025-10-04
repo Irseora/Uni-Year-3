@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+body {
+    font-family: "Sour Gummy"
+}
+
+.completed {
+    text-decoration: line-through;
+    color: gray;
+}
